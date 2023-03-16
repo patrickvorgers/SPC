@@ -1,0 +1,14 @@
+{
+    "standard": {
+        "1.0": {
+            "latest": "0.3",
+            "link": "https://github.com/patrickvorgers/fhpc/raw/master/firmware_bin/standard_hv_1_0/fhpc_std_v0.3.bin",
+        }
+    }
+    "pro": {
+        "1.0": {
+            "latest": "0.3",
+            "link": "https://github.com/patrickvorgers/fhpc/raw/master/firmware_bin/standard_hv_1_0/fhpc_std_v0.3.bin",
+        }
+    }
+}
