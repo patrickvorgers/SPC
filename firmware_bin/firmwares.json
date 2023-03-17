@@ -2,13 +2,13 @@
   "models": {
     "model": [
       {
-        "model_id": "standard",
+        "model_id": "fhpc",
         "hardware_version": "1.0",
         "software_version": "0.3",
-        "firmware_url": "https://github.com/patrickvorgers/fhpc/raw/main/firmware_bin/standard_hv_1.0/fhpc_standard_hv1.0_sv0.3.bin"
+        "firmware_url": "https://github.com/patrickvorgers/fhpc/raw/main/firmware_bin/standard_hv_1.0/fhpc_hv1.0_sv0.3.bin"
       },
       {
-        "model_id": "pro",
+        "model_id": "fhpc-pro",
         "hardware_version": "1.0",
         "software_version": "0.3",
         "firmware_url": "https://github.com/patrickvorgers/fhpc/raw/main/firmware_bin/standard_hv_1.0/fhpc_pro_hv1.0_sv0.3.bin"
