@@ -3,13 +3,13 @@
     {
       "model_id": "FHPC",
       "hardware_version": "1.0",
-      "software_version": "0.3",
+      "software_version": "0.30",
       "firmware_url": "https://github.com/patrickvorgers/fhpc/raw/main/firmware_bin/fhpc_hv_1.0/fhpc_hv1.0_sv0.3.bin"
     },
     {
       "model_id": "FHPC PRO",
       "hardware_version": "1.0",
-      "software_version": "0.3",
+      "software_version": "0.30",
       "firmware_url": "https://github.com/patrickvorgers/fhpc/raw/main/firmware_bin/fhpc_pro_hv_1.0/fhpc_pro_hv1.0_sv0.3.bin"
     }
   ]
