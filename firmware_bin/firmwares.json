@@ -1,17 +1,17 @@
 {
   "models" : [
     {
-      "model_id": "FHPC",
-      "hardware_version": "1.0",
-      "software_version": "0.30",
-      "firmware_url": "https://raw.githubusercontent.com/patrickvorgers/FHPC/main/firmware_bin/fhpc_hv_1.0/fhpc_hv1.0_sv0.3.bin",
-      "md5": "0fdd5ce264b7ee0b908a3e2cf856c8c8"
-    },
-    {
       "model_id": "FHPC PRO",
       "hardware_version": "1.0",
       "software_version": "0.30",
       "firmware_url": "https://raw.githubusercontent.com/patrickvorgers/FHPC/main/firmware_bin/fhpc_pro_1.0/fhpc_pro1.0_sv0.3.bin",
+      "md5": "0fdd5ce264b7ee0b908a3e2cf856c8c8"
+    },
+    {
+      "model_id": "FHPC",
+      "hardware_version": "1.0",
+      "software_version": "0.30",
+      "firmware_url": "https://raw.githubusercontent.com/patrickvorgers/FHPC/main/firmware_bin/fhpc_hv_1.0/fhpc_hv1.0_sv0.3.bin",
       "md5": "0fdd5ce264b7ee0b908a3e2cf856c8c8"
     }
   ]
