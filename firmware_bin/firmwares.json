@@ -5,14 +5,14 @@
       "hardware_version": "1.0",
       "software_version": "0.31",
       "firmware_url": "https://raw.githubusercontent.com/patrickvorgers/FHPC/main/firmware_bin/fhpc_pro_1.0/fhpc_pro1.0_sv0.3.bin",
-      "md5": "b7612c4e8b835966b633f3eb9b3e6355"
+      "md5": "0fdd5ce264b7ee0b908a3e2cf856c8c8"
     },
     {
       "model_id": "FHPC",
       "hardware_version": "1.0",
       "software_version": "0.30",
       "firmware_url": "https://raw.githubusercontent.com/patrickvorgers/FHPC/main/firmware_bin/fhpc_hv_1.0/fhpc_hv1.0_sv0.3.bin",
-      "md5": "0fdd5ce264b7ee0b908a3e2cf856c8c8"
+      "md5": "b7612c4e8b835966b633f3eb9b3e6355"
     }
   ]
 }
