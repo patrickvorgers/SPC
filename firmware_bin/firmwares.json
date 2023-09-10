@@ -10,9 +10,9 @@
     {
       "model_id": "SPC",
       "hardware_version": "1.0",
-      "software_version": "0.31",
-      "firmware_url": "https://raw.githubusercontent.com/patrickvorgers/SPC/main/firmware_bin/spc_hv_1.0/spc_hv1.0_sv0.3.bin",
-      "md5": "75ab2b1c02879e84b3cda77c42df5524"
+      "software_version": "0.40",
+      "firmware_url": "https://raw.githubusercontent.com/patrickvorgers/SPC/main/firmware_bin/spc_hv_1.0/spc_hv1.0_sv0.4.bin",
+      "md5": "97b208bc95959b6ecfc5672744ba4b66"
     }
   ]
 }
