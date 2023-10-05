@@ -1,7 +1,7 @@
 {
   "models" : [
     {
-      "model_id": "SPC PRO",
+      "model_id": "SPC-PRO",
       "hardware_version": "1.0",
       "software_version": "0.30",
       "firmware_url": "https://raw.githubusercontent.com/patrickvorgers/SPC/main/firmware_bin/spc_pro_1.0/spc_pro1.0_sv0.3.bin",
