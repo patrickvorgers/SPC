@@ -8,6 +8,13 @@
       "md5": "0fdd5ce264b7ee0b908a3e2cf856c8c8"
     },
     {
+      "model_id": "SPC-S",
+      "hardware_version": "1.0",
+      "software_version": "0.40",
+      "firmware_url": "https://raw.githubusercontent.com/patrickvorgers/SPC/main/firmware_bin/spc_s_hv_1.0/spc_s_hv1.0_sv0.4.bin",
+      "md5": "97b208bc95959b6ecfc5672744ba4b66"
+    },
+    {
       "model_id": "SPC",
       "hardware_version": "1.0",
       "software_version": "0.40",
