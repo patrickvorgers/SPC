@@ -1,13 +1,6 @@
 {
   "models" : [
     {
-      "model_id": "SPC-PRO",
-      "hardware_id": "1-85-2",
-      "software_version": "0.91",
-      "firmware_url": "https://raw.githubusercontent.com/patrickvorgers/SPC/main/firmware_bin/spc_pro_1-85-2/spc_pro_hv1-85-2_sv0.91.bin",
-      "md5": "0fdd5ce264b7ee0b908a3e2cf856c8c8"
-    },
-    {
       "model_id": "SPC-S",
       "hardware_id": "1-85-2",
       "software_version": "0.91",
