@@ -2,23 +2,30 @@
   "models" : [
     {
       "model_id": "SPC-PRO",
-      "hardware_version": "1.0",
-      "software_version": "0.30",
-      "firmware_url": "https://raw.githubusercontent.com/patrickvorgers/SPC/main/firmware_bin/spc_pro_1.0/spc_pro1.0_sv0.3.bin",
+      "hardware_id": "1-85-2",
+      "software_version": "0.91",
+      "firmware_url": "https://raw.githubusercontent.com/patrickvorgers/SPC/main/firmware_bin/spc_pro_1-85-2/spc_pro_hv1-85-2_sv0.91.bin",
       "md5": "0fdd5ce264b7ee0b908a3e2cf856c8c8"
     },
     {
       "model_id": "SPC-S",
-      "hardware_version": "1.0",
-      "software_version": "0.40",
-      "firmware_url": "https://raw.githubusercontent.com/patrickvorgers/SPC/main/firmware_bin/spc_s_hv_1.0/spc_s_hv1.0_sv0.4.bin",
+      "hardware_id": "1-85-2",
+      "software_version": "0.91",
+      "firmware_url": "https://raw.githubusercontent.com/patrickvorgers/SPC/main/firmware_bin/spc_s_hv_1-85-2/spc_s_hv1-85-2_sv0.91.bin",
+      "md5": "97b208bc95959b6ecfc5672744ba4b66"
+    },
+    {
+      "model_id": "SPC-S",
+      "hardware_id": "1-66-4",
+      "software_version": "0.91",
+      "firmware_url": "https://raw.githubusercontent.com/patrickvorgers/SPC/main/firmware_bin/spc_s_hv_1-66-4/spc_s_hv1-66-4_sv0.91.bin",
       "md5": "97b208bc95959b6ecfc5672744ba4b66"
     },
     {
       "model_id": "SPC",
-      "hardware_version": "1.0",
-      "software_version": "0.40",
-      "firmware_url": "https://raw.githubusercontent.com/patrickvorgers/SPC/main/firmware_bin/spc_hv_1.0/spc_hv1.0_sv0.4.bin",
+      "hardware_id": "1-85-2",
+      "software_version": "0.91",
+      "firmware_url": "https://raw.githubusercontent.com/patrickvorgers/SPC/main/firmware_bin/spc_hv_1-85-2/spc_hv1-85-2_sv0.91.bin",
       "md5": "97b208bc95959b6ecfc5672744ba4b66"
     }
   ]
