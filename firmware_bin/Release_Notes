@@ -1,2 +1,6 @@
+Release 0.91
+- Added support for "Between (including)" as trigger condition. This makes is possible to specify a range of values on which the trigger matches.
+- Fixed issue of incorrect handling of not connected sensors while rescanning 
+
 Release 0.90
-- Initial alpha release
+- Initial beta release
