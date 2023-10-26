@@ -1,8 +1,12 @@
 Release 0.91
+
+All models:
 - Added support for "Between (including)" as trigger condition. This makes is possible to specify a range of values on which the trigger matches.
 - Added possibility to add authentication (http header) to the trigger request
 - Fixed an issue where triggers would not match float values in case the json field was a string but the contents was a float value
 - Fixed an issue of incorrect handling of not connected sensors while rescanning 
 
 Release 0.90
+
+All models:
 - Initial beta release
