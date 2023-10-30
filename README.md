@@ -8,8 +8,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -27,23 +25,17 @@
     <img src="images/SPC.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Smart Pump Control</h3>
 
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/patrickvorgers/SPC"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/patrickvorgers/SPC">View Demo</a>
-    ·
     <a href="https://github.com/patrickvorgers/SPC/issues">Report Bug</a>
     ·
     <a href="https://github.com/patrickvorgers/SPC/issues">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -51,9 +43,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -64,10 +53,7 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
