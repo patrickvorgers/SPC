@@ -25,7 +25,7 @@
     <img src="images/SPC.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Smart Pump Control</h3>
+<h1 align="center">Smart Pump Control</h1>
 
   <p align="center">
     project_description
