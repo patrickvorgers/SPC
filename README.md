@@ -48,6 +48,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#reset">Reset</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -97,34 +98,21 @@ Follow these simple steps to setup your Smart Pump Control
 5. On the device page it is possible to rename the device into a more meaningfull name (needed when using multiple Smart Pump Control's on the same network)
 6. Update the configuration to your liking
 
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/patrickvorgers/SPC.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Restart/Reset
 
+#### Restart
+
+Single press the button on the device. This will restart the device and preserve the configuration.
+
+#### Configuration reset
+
+Double press the button on the device. This will restart the device and reset all the settings to the factory defaults except for the WiFi connection.
+
+#### Factory reset
+
+Press and hold the button on the device for at least 3 seconds. This will restart the device and reset all the settings to the factory defaults including the WiFi connection.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
