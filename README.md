@@ -79,6 +79,7 @@ With the Smart Pump Control, you're gaining more control. You can easily monitor
     <li>Energy Savings: Reduce electricity consumption by only running your pump when necessary.</li>
     <li>Home Automation Integration: Seamlessly integrate with Home Assistant or other automation systems for remote control.</li>
     <li>Easy Installation: Simple setup ensures you can start saving in no time.</li>
+    <li>Temperature based activation but also on external state triggers.</li>
 </ul>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -86,8 +87,14 @@ With the Smart Pump Control, you're gaining more control. You can easily monitor
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Follow these simple steps to setup your Smart Pump Control
+
+### Installation
+
+1. Connect the temperature sensors to the device.
+2. Plug the device in an electrical outlet
+3. On your phone connect to the <i>SPC-S-AP</i> or <i>SPC-AP</i> network
+
 
 ### Prerequisites
 
