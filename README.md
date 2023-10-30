@@ -62,6 +62,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+<img src="images/SPC hardware.png" alt="Logo" width="80" height="80">
+
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `patrickvorgers`, `SPC`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
@@ -136,4 +138,4 @@ Project Link: [https://github.com/patrickvorgers/SPC](https://github.com/patrick
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [issues-shield]: https://img.shields.io/github/issues/patrickvorgers/SPC.svg?style=for-the-badge
 [issues-url]: https://github.com/patrickvorgers/SPC/issues
-[product-screenshot]: images/SPC hardware.png
+[product-screenshot]: images/SPC_hardware.png
