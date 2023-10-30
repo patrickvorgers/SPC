@@ -48,7 +48,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#installation">Installation</a></li>
-        <li><a href="#reset">Reset</a></li>
+        <li><a href="#restart_reset">Restart/Reset</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -98,8 +98,6 @@ Follow these simple steps to setup your Smart Pump Control
 5. On the device page it is possible to rename the device into a more meaningfull name (needed when using multiple Smart Pump Control's on the same network)
 6. Update the configuration to your liking
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Restart/Reset
 
 #### Restart
@@ -113,6 +111,9 @@ Double press the button on the device. This will restart the device and reset al
 #### Factory reset
 
 Press and hold the button on the device for at least 3 seconds. This will restart the device and reset all the settings to the factory defaults including the WiFi connection.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- USAGE EXAMPLES -->
 ## Usage
