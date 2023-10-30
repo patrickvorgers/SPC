@@ -47,7 +47,6 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -93,7 +92,10 @@ Follow these simple steps to setup your Smart Pump Control
 
 1. Connect the temperature sensors to the device.
 2. Plug the device in an electrical outlet
-3. On your phone connect to the <i>SPC-S-AP</i> or <i>SPC-AP</i> network
+3. On your phone connect to the <b><i>SPC-S-AP</i></b> WiFi network for the socket version or to the <b><i>SPC-AP</i></b> WiFi network for the basic version and follow the steps to connect the Smart Pump Control to your WiFi network. It can take some time before the accessportal pops up so please be patient.
+4. After the Smart Pump Control has been connected to the WiFi the Smart Pump Control can be accessed via [http://spc-s.local]http://spc-s.local for the socket version and on [http://spc.local]http://spc.local for the basic version.
+5. On the device page it is possible to rename the device into a more meaningfull name (needed when using multiple Smart Pump Control's on the same network)
+6. Update the configuration to your liking
 
 
 ### Prerequisites
