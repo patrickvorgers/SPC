@@ -136,4 +136,4 @@ Project Link: [https://github.com/patrickvorgers/SPC](https://github.com/patrick
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [issues-shield]: https://img.shields.io/github/issues/patrickvorgers/SPC.svg?style=for-the-badge
 [issues-url]: https://github.com/patrickvorgers/SPC/issues
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/SPC hardware.png
