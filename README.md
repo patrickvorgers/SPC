@@ -116,10 +116,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Autodetect IP of the external trigger system based on the provided url
+- [ ] Different pump activation temperatures for summer and winter
+- [ ] Default behaviour when the external trigger system is not available (activate pump / deactivate pump)
+- [ ] Delta triggering, when difference between two sensors is above a threshold activate the pump (scenario: difference between flow and return)
 
 See the [open issues](https://github.com/patrickvorgers/SPC/issues) for a full list of proposed features (and known issues).
 
