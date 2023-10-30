@@ -75,11 +75,11 @@ The Smart Pump Control is designed to work seamlessly with your heat pump and ce
 With the Smart Pump Control, you're gaining more control. You can easily monitor and manage your Smart Pump Control through popular home automation systems like Home Assistant. Adjust settings from the convenience of your smartphone or computer. It's a smarter, more connected way to manage your pump.
 
 ### Key Benefits of Smart Pump Control:
-<ol>
+<ul>
     <li>Energy Savings: Reduce electricity consumption by only running your pump when necessary.</li>
     <li>Home Automation Integration: Seamlessly integrate with Home Assistant or other automation systems for remote control.</li>
     <li>Easy Installation: Simple setup ensures you can start saving in no time.</li>
-</ol>
+</ul>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
