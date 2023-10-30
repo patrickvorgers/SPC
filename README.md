@@ -64,22 +64,21 @@
 
 <img src="images/SPC hardware.png">
 
-Are you using floor heating and struggling with low temperature issues? The Smart Pump Control has the answer! By integrating this intelligent device into your heating system, you can optimize your energy consumption and maintain the perfect temperature in your home.
+### Floorheating usecase
 
-### Efficiency at Its Best
+Are you using floor heating and struggling with low temperature issues? The Smart Pump Control has the answer! By integrating this intelligent device into your heating system, you can optimize your energy consumption and maintain the perfect temperature in your home.
 
 The Smart Pump Control is designed to work seamlessly with your heat pump and central heating system. It detects when either of these sources is producing heat and then intelligently activates your floor heating pump. This means you no longer have to keep the pump running continuously, wasting electricity when it's not needed. Instead, your heating system operates at its peak efficiency, saving you money on your energy bills.
 
 ### Take Control with Home Automation
 
-With the Smart Pump Control, you're not only improving your heating system's efficiency but also gaining more control. You can easily monitor and manage your Smart Pump Control through popular home automation systems like Home Assistant. Adjust settings, track energy consumption, and set schedules from the convenience of your smartphone or computer. It's a smarter, more connected way to manage your home's heating system.
+With the Smart Pump Control, you're gaining more control. You can easily monitor and manage your Smart Pump Control through popular home automation systems like Home Assistant. Adjust settings from the convenience of your smartphone or computer. It's a smarter, more connected way to manage your pump.
 
 ### Key Benefits of Smart Pump Control:
 <ol>
-    <li>Energy Savings: Reduce electricity consumption by only running your floor heating pump when necessary.</li>
-    <li>Improved Comfort: Maintain consistent and comfortable temperatures throughout your home.</li>
+    <li>Energy Savings: Reduce electricity consumption by only running your pump when necessary.</li>
     <li>Home Automation Integration: Seamlessly integrate with Home Assistant or other automation systems for remote control.</li>
-    <li>Easy Installation: Simple setup ensures you can start saving and optimizing your heating system in no time.</li>
+    <li>Easy Installation: Simple setup ensures you can start saving in no time.</li>
 </ol>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
