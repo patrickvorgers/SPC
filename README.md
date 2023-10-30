@@ -28,7 +28,7 @@
 <h1 align="center">Smart Pump Control</h1>
 
   <p align="center">
-    project_description
+    Smart Pump Control makes it possible to switch a pump based on the temperature and/or an external trigger. 
     <br />
     <br />
     <a href="https://github.com/patrickvorgers/SPC/issues">Report Bug</a>
