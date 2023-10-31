@@ -82,6 +82,19 @@ With the Smart Pump Control, you're gaining more control. You can easily monitor
     <li>Temperature based activation but also on external state triggers.</li>
 </ul>
 
+### Technical features of Smart Pump Control:
+<ul>
+    <li>Temperature based activation: Activate the pump based on a temperature trigger.</li>
+    <li>Autorun: Automatically run the pump based on a period of inactivity to prevent damage to the system.</li>
+    <li>Frostprotection: Automatically run the pump when the registered temperature it too low to prevent frost damage.</li>  
+    <li>WebUI: Fully configure the SPC using a WebUI.</li>
+    <li>Full API support: All userinterface functionality is also available as an API.</li>
+    <li>Home Automation integration: Home Assistant autodiscovery of the device and monitoring and configuration via Home Assistant.</li>
+    <li>External Trigger support: Trigger the Smart Pump Control based on an external JSON information. This can be any system that provides JSON data. For instance: Home Assistant or Heat pump systems.</li>
+    <li>Multiple devices: Support for multiple SPC's on the same network.</li>
+    <li>Firmware update: New firmware releases are automatically detected. Upgrade can be initiated via WebUI and API.</li>
+</ul>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -96,7 +109,8 @@ Follow these simple steps to setup your Smart Pump Control
 3. On your phone connect to the <b><i>SPC-S-AP</i></b> WiFi accesspoint for the socket version or to the <b><i>SPC-AP</i></b> WiFi accesspoint for the basic version and follow the steps to connect the Smart Pump Control to your WiFi network. It can take some time before the accessportal pops up so please be patient.
 4. After the Smart Pump Control has been connected to the WiFi, the Smart Pump Control can be accessed via [http://spc-s.local](http://spc-s.local) for the socket version and on [http://spc.local](http://spc.local) for the basic version.
 5. On the device page it is possible to rename the device into a more meaningfull name (needed when using multiple Smart Pump Control's on the same network)
-6. Update the configuration to your liking
+6. Identify the temperature sensors by holding a single temperature sensor in your hand and monitor for 30 seconds on the SPC startpage the temperature of the sensors. On the configuration page the identified temperature sensor can be assigned (if needed) to another circuit and/or flow/return role.  
+7. Update the configuration to your liking
 
 ### Restart/Reset
 
