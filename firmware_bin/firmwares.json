@@ -5,14 +5,14 @@
       "hardware_id": "1-85-2",
       "software_version": "0.91",
       "firmware_url": "https://raw.githubusercontent.com/patrickvorgers/SPC/main/firmware_bin/spc_s_hv_1-85-2/spc_s_hv1-85-2_sv0.91.bin",
-      "md5": "3beadac9687dc1d4e252b8368ac7e90f"
+      "md5": "2ffbf845c271457bba05c08ca5edb3c2"
     },
     {
       "model_id": "SPC",
       "hardware_id": "1-85-2",
       "software_version": "0.91",
       "firmware_url": "https://raw.githubusercontent.com/patrickvorgers/SPC/main/firmware_bin/spc_hv_1-85-2/spc_hv1-85-2_sv0.91.bin",
-      "md5": "85279268352dc0348aa43d4bfb255da6"
+      "md5": "7e082c4354599d90bedb9eb7891bb911"
     }
   ]
 }
