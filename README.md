@@ -77,9 +77,10 @@ With the Smart Pump Control, you're gaining more control. You can easily monitor
 ### Key Benefits of Smart Pump Control:
 <ul>
     <li>Energy Savings: Reduce electricity consumption by only running your pump when necessary.</li>
-    <li>Home Automation Integration: Seamlessly integrate with Home Assistant or other automation systems for remote control.</li>
     <li>Easy Installation: Simple setup ensures you can start saving in no time.</li>
-    <li>Temperature based activation but also on external state triggers.</li>
+    <li>Standalone operation: A Home Automation system is not required to operate.</li>
+    <li>Home Automation Integration: Seamlessly integrate with Home Assistant or other automation systems for remote control and monitoring.</li>
+    <li>Multiple forms of activation: Temperature based activation but also on external state triggers.</li>
 </ul>
 
 ### Technical features of Smart Pump Control:
@@ -89,6 +90,7 @@ With the Smart Pump Control, you're gaining more control. You can easily monitor
     <li>Frostprotection: Automatically run the pump when the registered temperature it too low to prevent frost damage.</li>  
     <li>WebUI: Fully configure the SPC using a WebUI.</li>
     <li>Full API support: All userinterface functionality is also available as an API.</li>
+    <li>MQTT support: Status information can be published via MQTT and used in any system that supports MQTT.</li>
     <li>Home Automation integration: Home Assistant autodiscovery of the device and monitoring and configuration via Home Assistant.</li>
     <li>External Trigger support: Trigger the Smart Pump Control based on an external JSON information. This can be any system that provides JSON data. For instance: Home Assistant or Heat pump systems.</li>
     <li>Multiple devices: Support for multiple SPC's on the same network.</li>
@@ -105,7 +107,7 @@ Follow these simple steps to setup your Smart Pump Control
 ### Installation
 
 1. Connect the temperature sensors to the device.
-2. Plug the device in an electrical outlet
+2. Plug the device in an electrical outlet and wait for the blue led to start blinking (WiFi accesspoint mode).
 3. On your phone connect to the <b><i>SPC-S-AP</i></b> WiFi accesspoint for the socket version or to the <b><i>SPC-AP</i></b> WiFi accesspoint for the basic version and follow the steps to connect the Smart Pump Control to your WiFi network. It can take some time before the accessportal pops up so please be patient.
 4. After the Smart Pump Control has been connected to the WiFi, the Smart Pump Control can be accessed via [http://spc-s.local](http://spc-s.local) for the socket version and on [http://spc.local](http://spc.local) for the basic version.
 5. On the device page it is possible to rename the device into a more meaningfull name (needed when using multiple Smart Pump Control's on the same network)
@@ -124,7 +126,7 @@ Double press the button on the device. This will restart the device and reset al
 
 #### Factory reset
 
-Press and hold the button on the device for at least 3 seconds. This will restart the device and reset all the settings to the factory defaults including the WiFi connection.
+Press and hold the button on the device for at least 3 seconds. This will restart the device and reset all the settings to the factory defaults including the WiFi connection. After restart the blue led will start blinking to indicate that the device is in WiFi accesspoint mode and that the WiFi needs to be configured.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
