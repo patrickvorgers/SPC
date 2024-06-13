@@ -3,16 +3,16 @@
         {
             "model_id": "SPC-S",
             "hardware_id": "1-85-2",
-            "software_version": "0.93",
-            "firmware_url": "https://raw.githubusercontent.com/patrickvorgers/SPC/main/firmware_bin/spc_s_hv_1-85-2/spc_s_hv1-85-2_sv0.93.bin",
-            "md5": "ac4a8ff35726b21a05011be3149915d4"
+            "software_version": "0.94",
+            "firmware_url": "https://raw.githubusercontent.com/patrickvorgers/SPC/main/firmware_bin/spc_s_hv_1-85-2/spc_s_hv1-85-2_sv0.94.bin",
+            "md5": "e5c3c9872fa8e5a4d7ecde5925514f6e"
         },
         {
             "model_id": "SPC",
             "hardware_id": "1-85-2",
-            "software_version": "0.93",
-            "firmware_url": "https://raw.githubusercontent.com/patrickvorgers/SPC/main/firmware_bin/spc_hv_1-85-2/spc_hv1-85-2_sv0.93.bin",
-            "md5": "b7d2adc88d4de325e8ec2f879e1b4645"
+            "software_version": "0.94",
+            "firmware_url": "https://raw.githubusercontent.com/patrickvorgers/SPC/main/firmware_bin/spc_hv_1-85-2/spc_hv1-85-2_sv0.94.bin",
+            "md5": "bb27b2b0c0f73fea24384f39c6736412"
         }
     ]
 }

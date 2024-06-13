@@ -1,5 +1,12 @@
 # Changelog
 
+## Release 0.94
+
+### All models:
+- Added a detailed logbook entry in case the pump was triggered and the JSON trigger returned an error.
+- Resolved an issue where negative activation was not permitted, even though it is valid in certain cases for the 'Activate when &Delta;T below' pump activation mode.
+- Resolved an issue where triggers would not match float values if the JSON field was a string but the contents was a float value.
+
 ## Release 0.93
 
 ### All models:
