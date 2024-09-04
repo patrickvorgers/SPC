@@ -1,5 +1,11 @@
 # Changelog
 
+## Release 0.95
+
+### All models:
+- Added support for the new SPC-SC model, a socket version of the SPC without temperature sensors.
+- Changed the URL of <i>Download a firmware file</i> on the <i>Update</i> page so that it opens the location of the firmware files for the current model and hardware ID.
+
 ## Release 0.94
 
 ### All models:

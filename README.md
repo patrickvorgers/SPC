@@ -115,12 +115,19 @@ Follow these simple steps to setup your Smart Pump Control
 ### Installation
 
 1. Connect the temperature sensors to the device.
-2. Plug the device in an electrical outlet and wait for the blue led to start blinking (WiFi accesspoint mode).
-3. On your phone connect to the <b><i>SPC-S-AP</i></b> WiFi accesspoint for the socket version or to the <b><i>SPC-AP</i></b> WiFi accesspoint for the basic version and follow the steps to connect the Smart Pump Control to your WiFi network. It can take some time before the accessportal pops up so please be patient.
-4. After the Smart Pump Control has been connected to the WiFi, the Smart Pump Control can be accessed via [http://spc-s.local](http://spc-s.local) for the socket version and on [http://spc.local](http://spc.local) for the basic version.
-5. On the device page it is possible to rename the device into a more meaningfull name (needed when using multiple Smart Pump Control's on the same network)
-6. Identify the temperature sensors by holding a single temperature sensor in your hand and monitor for 30 seconds on the SPC startpage the temperature of the sensors. On the configuration page the identified temperature sensor can be assigned (if needed) to another circuit and/or flow/return role.  
-7. Update the configuration to your liking
+1. Plug the device in an electrical outlet and wait for the blue led to start blinking (WiFi accesspoint mode).
+1. On your phone connect to the WiFi accesspoint and follow the steps to connect the Smart Pump Control to your WiFi network. It can take some time before the accessportal pops up so please be patient.
+    - <b><i>SPC-S-AP</i></b> for the socket version
+    - <b><i>SPC-SC-AP</i></b> for the socket version with no temperature sensors (core version)
+    - <b><i>SPC-AP</i></b> for the basic version
+    or to the <b><i>SPC-AP</i></b> WiFi accesspoint for the basic version 
+1. After the Smart Pump Control has been connected to the WiFi, the Smart Pump Control can be accessed via the below links
+    - [http://spc-s.local](http://spc-s.local) for the socket version
+    - [http://spc-sc.local](http://spc-sc.local) for the socket version with no temperature sensors (core version)
+    - [http://spc.local](http://spc.local) for the basic version.
+1. On the device page it is possible to rename the device into a more meaningfull name (needed when using multiple Smart Pump Control's on the same network)
+1. In case temperature sensors can be connected, identify the temperature sensors by holding a single temperature sensor in your hand and monitor for 30 seconds on the SPC startpage the temperature of the sensors. On the configuration page the identified temperature sensor can be assigned (if needed) to another circuit and/or flow/return role.  
+1. Update the configuration to your liking
 
 <a name="restart-reset"></a>
 ### Restart/Reset
