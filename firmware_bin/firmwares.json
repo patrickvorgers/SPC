@@ -15,13 +15,6 @@
             "md5": "f952ddc5f3ef93452b8659adf8146857"
         },
         {
-            "model_id": "SPC-SC",
-            "hardware_id": "1-85-2",
-            "software_version": "0.95",
-            "firmware_url": "https://raw.githubusercontent.com/patrickvorgers/SPC/main/firmware_bin/spc-sc_hv_1-85-2/spc_sc_hv1-85-2_sv0.95.bin",
-            "md5": "f952ddc5f3ef93452b8659adf8146857"
-        },        
-        {
             "model_id": "SPC",
             "hardware_id": "1-85-2",
             "software_version": "0.95",
