@@ -1,5 +1,18 @@
 # Changelog
 
+## Release 1.10
+
+### All models with temperature sensors:
+- Added support for a 24-hour temperature history graph displaying 'Circuit 1 flow', 'Circuit 1 return', 'Activation', and 'Hysteresis'. For the 'Activate when &Delta;T below' and 'Activate when &Delta;T above' pump activation modes, the '&Delta;T' value is also shown. Part of the background changes during periods when the pump is running.
+- Improved temperature sensor detection with enhanced reliability in identifying and managing sensors.
+
+### All models:
+- Added Quatt heat pump autodetect functionality, which simplifies the trigger setup process by automatically detecting Quatt devices on the network.
+- Moved 'Temperature sensor rescan' and 'Restart/Reset device' to the new 'System tools' section.
+- Added 'Manual auto run' functionality for manual pump operation for a set time, typically used for testing or maintenance.
+- Improved request memory management by eliminating the need for an additional buffer, resulting in more efficient resource utilization during requests and reducing potential memory overhead.
+- Removed the 6 KB limit for non https trigger requests, allowing for larger payloads. However, caution is advised to use excessively large payloads due to the memory constraints of embedded devices.
+
 ## Release 0.95
 
 ### All models:
