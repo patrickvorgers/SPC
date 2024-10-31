@@ -184,9 +184,19 @@ Press and hold the button on the device for at least 3 seconds. This will restar
 <a name="web-ui"></a>
 ### Web UI
 
-<img src="https://raw.githubusercontent.com/patrickvorgers/SPC/main/images/SPC config.png" width="75%" height="75%">
-<img src="https://raw.githubusercontent.com/patrickvorgers/SPC/main/images/SPC trigger.png" width="75%" height="75%">
-
+Main screen showing the state of the pump and temperature sensors<br> 
+<img src="https://raw.githubusercontent.com/patrickvorgers/SPC/main/images/SPC config.png" width="75%" height="75%"><br>
+Trigger configuration for automatically starting/stopping the pump (autodetection for Quatt devices)<br> 
+<img src="https://raw.githubusercontent.com/patrickvorgers/SPC/main/images/SPC trigger.png" width="75%" height="75%"><br>
+<img src="https://raw.githubusercontent.com/patrickvorgers/SPC/main/images/SPC trigger1.png" width="75%" height="75%"><br>
+24h temperature history including pumpstate<br> 
+<img src="https://raw.githubusercontent.com/patrickvorgers/SPC/main/images/SPC history.png" width="75%" height="75%"><br>
+Logbook show when the pump was activated<br> 
+<img src="https://raw.githubusercontent.com/patrickvorgers/SPC/main/images/SPC logbook.png" width="75%" height="75%"><br>
+Configuration tools<br> 
+<img src="https://raw.githubusercontent.com/patrickvorgers/SPC/main/images/SPC tools.png" width="75%" height="75%"><br>
+Firmware update<br> 
+<img src="https://raw.githubusercontent.com/patrickvorgers/SPC/main/images/SPC update.png" width="75%" height="75%"><br>
 
 <a name="home-assistant-ui"></a>
 ### Home Assistant UI
