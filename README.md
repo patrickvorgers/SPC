@@ -168,7 +168,7 @@ This setup enables seamless integration with other systems, enhancing automation
 <li>2</li>
 <li>4</li>
 </ul>
-<br>
+
 <u>Example: Home Assistant heatpump</u>
 <ul>
 <li>Bearer LONG-LIVED-TOKEN</li>
