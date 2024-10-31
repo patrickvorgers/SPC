@@ -100,6 +100,7 @@ With the Smart Pump Control, you're gaining more control. You can easily monitor
     <li>MQTT support: Status information can be published via MQTT and used in any system that supports MQTT.</li>
     <li>Home Automation integration: Home Assistant autodiscovery of the device and monitoring and configuration via Home Assistant.</li>
     <li>External Trigger support: Trigger the Smart Pump Control based on an external JSON information. This can be any system that provides JSON data. For instance: Home Assistant or Heat pump systems.</li>
+    <li>Automatic trigger configuration for Quatt heat pump systems by auto-detecting the Quatt</li>
     <li>Multiple devices: Support for multiple SPC's on the same network.</li>
     <li>Firmware update: New firmware releases are automatically detected. Upgrade can be initiated via WebUI and API.</li>
 </ul>
@@ -241,7 +242,7 @@ Dashboard<br>
 <a name="roadmap"></a>
 ## Roadmap
 
-- [ ] Autodetect IP of the external trigger system based on the provided url
+- [X] Autodetect IP of the external trigger system
 - [ ] Different pump activation temperatures for summer and winter
 - [X] Default behaviour when the external trigger system is not available (activate pump / deactivate pump)
 - [X] Delta triggering, when difference between two sensors is above or below a threshold activate the pump (scenario: difference between flow and return)
