@@ -200,7 +200,12 @@ Firmware update<br>
 
 <a name="home-assistant-ui"></a>
 ### Home Assistant UI
-TODO
+
+Autodetected device<br>
+<img src="https://raw.githubusercontent.com/patrickvorgers/SPC/main/images/SPC HA config1.png" width="50%" height="75%">
+<img src="https://raw.githubusercontent.com/patrickvorgers/SPC/main/images/SPC HA config2.png" width="25%" height="75%"><br>
+Dashboard<br>
+<img src="https://raw.githubusercontent.com/patrickvorgers/SPC/main/images/SPC HA config3.png" width="75%" height="75%"><br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
