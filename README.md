@@ -53,6 +53,7 @@
     </li>
     <li><a href="#usage">Usage</a></li>
       <ul>
+        <li><a href="#trigger-activation">Trigger activation</a></li>
         <li><a href="#temperature-activation">Temperature activation</a></li>
         <li><a href="#web-ui">Web UI</a></li>
         <li><a href="#home-assistant-ui">Home Assistant UI</a></li>
@@ -149,6 +150,33 @@ Press and hold the button on the device for at least 3 seconds. This will restar
 <!-- USAGE EXAMPLES -->
 <a name="usage"></a>
 ## Usage
+
+<a name="trigger-activation"></a>
+### Trigger activation
+
+With trigger activation, it is possible to initiate the SPC based on an external trigger.
+Currently, it can make an API call and, based on the response, activate the pump.
+Trigger conditions can be customized to accommodate different activation requirements, allowing for greater flexibility and precision in pump control.
+This setup enables seamless integration with other systems, enhancing automation capabilities.
+
+<u>Example: Quatt heatpump</u>
+<ul>
+<li>No authentication - leave blank</li>
+<li>http://quatt.home.local:8080/beta/feed/data.json</li>
+<li>qc.supervisoryControlMode</li>
+<li>Between (including)</li>
+<li>2</li>
+<li>4</li>
+</ul>
+<br>
+<u>Example: Home Assistant heatpump</u>
+<ul>
+<li>Bearer LONG-LIVED-TOKEN</li>
+<li>https://homeassistant.local:8123/api/states/sensor.heatpump_flowmeter_flowrate</li>
+<li>state</li>
+<li>Greater than</li>
+<li>425</li>
+</ul>
 
 <a name="temperature-activation"></a>
 ### Temperature activation
